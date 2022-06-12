@@ -35,4 +35,8 @@ Fourth
 Uses permission On Manifest
 
      <uses-permission android:name="android.permission.INTERNET" />
-                
+     
+     
+Result
+================     
+<img width="300px" src="https://raw.githubusercontent.com/LucasBara-dising/PicassoAndroid/master/Screenshot_20220612-140555.jpg"/>   
